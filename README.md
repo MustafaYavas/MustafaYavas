@@ -7,10 +7,7 @@
   
 
 - 👨‍💻 I’m working on Web Technologies  
-  
 
-- ⚡ I’m currently learning [TypeScript](https://www.typescriptlang.org/)  
-  
 
 - ✔️ You can reach me: [mustafayavas40@gmail.com](mailto:mustafayavas40@gmail.com)  
   
