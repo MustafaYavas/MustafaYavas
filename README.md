@@ -2,7 +2,7 @@
   
   - 👨‍💻 I’m working on Web Technologies  
   - ✔️ You can reach me: [mustafayavas40@gmail.com](mailto:mustafayavas40@gmail.com)  
-  - 👨‍🚀 My personal site: [visit](https://mustafa-yavas.netlify.app/) 
+  - 👨‍🚀 My personal site: [visit](https://mustafa-yavas.vercel.app/) 
  
 </div> 
   
